@@ -4,6 +4,15 @@
 	text-align: center;
 }
 
+body {
+	font-family: Times, Arial;
+	font-size: 16px;
+}
+
 p {
 	padding-right: 20em;
+}
+
+footer {
+	padding-top: 3em;
 }
